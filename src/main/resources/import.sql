@@ -1,0 +1,10 @@
+INSERT INTO foods (title, image, price) VALUES ('Hamburguer', 'https://example.com/burger.jpg', 10);
+INSERT INTO foods (title, image, price) VALUES ('Pizza', 'https://example.com/pizza.jpg', 15);
+INSERT INTO foods (title, image, price) VALUES ('Sushi', 'https://example.com/sushi.jpg', 20);
+INSERT INTO foods (title, image, price) VALUES ('Salada de Frutas', 'https://example.com/fruit-salad.jpg', 8);
+INSERT INTO foods (title, image, price) VALUES ('Lasanha', 'https://example.com/lasagna.jpg', 18);
+INSERT INTO foods (title, image, price) VALUES ('Cachorro-Quente', 'https://example.com/hot-dog.jpg', 5);
+INSERT INTO foods (title, image, price) VALUES ('Sanduíche de Frango', 'https://example.com/chicken-sandwich.jpg', 12);
+INSERT INTO foods (title, image, price) VALUES ('Massa Carbonara', 'https://example.com/carbonara.jpg', 16);
+INSERT INTO foods (title, image, price) VALUES ('Tacos', 'https://example.com/tacos.jpg', 14);
+INSERT INTO foods (title, image, price) VALUES ('Sopa de Tomate', 'https://example.com/tomato-soup.jpg', 7);
